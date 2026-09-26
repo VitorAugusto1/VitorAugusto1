@@ -1,22 +1,29 @@
-<div align="center">
-  <h1>Vitor Augusto</h1>
+# Olá! Eu sou o Vitor Augusto 👋
+Sou Desenvolvedor Full Stack e venho desenvolvendo projetos com o objetivo de transformar conhecimento teórico em aplicações reais, buscando evoluir constantemente em boas práticas de programação, arquitetura de software, segurança e qualidade de código.
 
-  ![Java Back-End Developer](https://img.shields.io/badge/Java%20Back--End%20Developer-gray?style=flat&color=b81d24)
-  ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-gray?style=flat&color=b81d24)</br>
-  
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
-  <img align="center" alt="Vitor-springboot" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">
-  <img align="center" alt="Vitor-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
-</div>
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-vscode" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png">
-</div>
-
+### 🛠️ Technologies
+Backend
+- Java
+- Node.js
+- Express.js
+- APIs REST
+- JavaScript
+## Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+## Banco de Dados
+- PostgreSQL
+- Supabase
+- SQL
+## Ferramentas & Conceitos
+- Git & GitHub
+- REST API
+- JWT
+- RBAC
+- Row Level Security (RLS)
+- SOLID
+<hr>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
